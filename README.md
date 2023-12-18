@@ -1,1 +1,1 @@
-# Cookie-Management
+JavaScript code for managing cookies.
